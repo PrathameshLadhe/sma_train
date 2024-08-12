@@ -1,1 +1,1 @@
-# sma_train
+# best.pt file pre-trained on Plots
